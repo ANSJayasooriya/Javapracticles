@@ -8,7 +8,7 @@ public class JavaPractical03
         System.out.println("Name = "+e1.getName());
         System.out.println("Age = "+e1.getAge());
         System.out.println("Salary = "+e1.getSalary());
-        e1.setName("Hansa");
+        e1.setName("Nadeeja");
         e1.setAge(10);
         e1.setSalary(25000.50);
         System.out.println("Name = "+e1.getName());
