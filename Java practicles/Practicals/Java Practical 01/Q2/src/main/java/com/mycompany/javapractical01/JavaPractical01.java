@@ -4,7 +4,7 @@ public class JavaPractical01
 {
     public static void main(String[] args)
     {
-        System.out.println("Hansa Sithuruwan");
-        System.out.println("Bsc(Hons) in Computer Science");
+        System.out.println("Nadeeja Sasmitha");
+        System.out.println("Bachelor of information technology(Major in cyber secuirity");
     }
 }
